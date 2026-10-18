@@ -11,11 +11,7 @@
 --------------
 
 # Bonus
-## studio Equipment Checkout System
-Your task is to build a terminal-based Equipment Checkout System that replaces the notebook.
-The system must store its information in a JSON file so that all records remain available even after the program is closed and restarted.
-
-# Python Coding Challenge: The Equipment Checkout System
+## Studio Equipment Checkout System
 
 You have been hired by a small media production studio that lends cameras, microphones, lighting equipment, and other gear to its employees.
 
